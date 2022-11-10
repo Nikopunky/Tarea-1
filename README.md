@@ -37,6 +37,12 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
 La solución deb estar en esta sección, no como un archivo anexo.
 
+1. Exprese cada uno de los números siguientes en notación científica:
+
+a) 300
+
+   3x10^2
+
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
