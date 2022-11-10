@@ -39,9 +39,9 @@ La solución deb estar en esta sección, no como un archivo anexo.
 
 1. Exprese cada uno de los números siguientes en notación científica:
 
-a) 300
+a) 300                                                          
 
-![](https://github.com/Nikopunky/Tarea-1/blob/main/CodeCogsEqn.png)
+![](https://github.com/Nikopunky/Tarea-1/blob/main/1.png) 
 
 4. VIDEO
 
