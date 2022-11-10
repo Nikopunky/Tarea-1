@@ -41,7 +41,7 @@ La solución deb estar en esta sección, no como un archivo anexo.
 
 a) 300
 
-   3x10^2
+![](https://github.com/Nikopunky/Tarea-1/blob/main/CodeCogsEqn.png)
 
 4. VIDEO
 
